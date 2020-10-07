@@ -14,7 +14,7 @@
     - /search: You can use this syntax to search your query . ex: /search list in python </br>
                note : should mention /search before any query you want to ask
 
-# You can access bot through this link :
+### You can access bot through this link :
 [Mecca in_all_bot](https://t.me/in_all_bot)
                
                
